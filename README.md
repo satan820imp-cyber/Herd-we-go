@@ -1,3 +1,3 @@
-# Herd-we-go
-My firrst repositorty
-This is my firstt time at creating a repository.
+# Here-we-go
+My first repositorty
+This is my first time at creating a repository.
